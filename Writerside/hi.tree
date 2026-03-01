@@ -14,8 +14,10 @@
     <toc-element topic="NVIDIA.md"/>
     <toc-element topic="Fcitx5-输入法.md"/>
     <toc-element topic="基础软件.md"/>
+    <toc-element topic="GnomeDesktop.md"/>
     <toc-element topic="浏览器.md"/>
     <toc-element toc-title="开发环境">
         <toc-element topic="Node-js.md"/>
     </toc-element>
+    <toc-element topic="IDEA.md"/>
 </instance-profile>
